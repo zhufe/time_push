@@ -1,0 +1,25 @@
+{
+# 公众号配置
+# 公众号appId
+"app_id": "wx8301ce80f9dec612",
+# 公众号appSecret
+"app_secret": "cb81dac5469d33fd2368ece1f9c1918d",
+# 模板消息id
+"template_id": "nmMK3PrmxrZInxOb9ER_KM5Y96lpH6TXP7lRSk7-EgE",
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
+"user": ["oriup5u3DZp3aqvdFSf0Im3YXsYA", "oriup5p9YPnxFKQdMxZAs0a73UmE"],
+
+# 信息配置
+# 所在省份
+"province": "陕西",
+# 所在城市
+"city": "安康",
+# 生日1
+"birthday1": "1997-01-12",
+# 生日2
+"birthday2": "1996-03-01",
+# 生日3
+"birthday3": "1990-05-01",
+# 在一起的日子，格式同上
+"love_date": "2015-10-01"
+}
